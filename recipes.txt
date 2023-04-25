@@ -1,6 +1,2 @@
-pb
-ham and cheese sandwhich
-cake
-bread
-blt
-stir fry 
+
+pasta pizza soup shrimp chicken 
